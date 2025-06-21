@@ -1,0 +1,1 @@
+export default { colors: { primary: '#6C5CE7', background: '#1e1e2f', text: '#ffffff' }, font: 'Cairo' }

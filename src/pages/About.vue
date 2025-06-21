@@ -1,0 +1,1 @@
+<template><div>عن المتجر</div></template><script>export default {}</script>

@@ -1,0 +1,1 @@
+<template><div>مرحبا بك في جوستارو</div></template><script>export default {}</script>

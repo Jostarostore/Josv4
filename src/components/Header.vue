@@ -1,0 +1,1 @@
+<template><header>Jostaro</header></template><script>export default {}</script>

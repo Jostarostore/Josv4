@@ -1,0 +1,1 @@
+<template><div class='product-card'>منتج</div></template><script>export default {}</script>

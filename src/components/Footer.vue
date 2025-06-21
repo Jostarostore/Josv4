@@ -1,0 +1,1 @@
+<template><footer>© 2025 Jostaro</footer></template><script>export default {}</script>

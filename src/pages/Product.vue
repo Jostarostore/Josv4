@@ -1,0 +1,1 @@
+<template><div>صفحة المنتج</div></template><script>export default {}</script>
